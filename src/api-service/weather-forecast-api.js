@@ -10,7 +10,7 @@ export default class WeatherApi extends Api {
       WEATHER: 'weather?',
       LAT: 'lat=',
       LONG: '&lon=',
-      LANG: '&lang=en',
+      LANG: '&lang=ru',
       UNITS: '&units'
     };
   }
